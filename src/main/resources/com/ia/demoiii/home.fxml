@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="580.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/24" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="23.0" layoutY="29.0" text="Pradžia">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="23.0" layoutY="70.0" text="Pasirinkite veiksmą meniu viršuje." />
+   </children>
+</AnchorPane>
